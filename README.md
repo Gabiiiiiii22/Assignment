@@ -21,12 +21,15 @@ The interactive digital artwork continuously creates flowers that bloom and with
 Using a p5.js particle system can simulate the blooming and fading of flowers. Each particle’s lifecycle controls size, opacity, and color transitions. The mouse poistion from users may trigger more particles, creating a responsive environment. This approach echoes the interactive qualities of TeamLab’s Flowers and People – Dark, offering an accessible way to prototype real-time generative visuals that respond directly to viewer presence.
 
 [Example link](https://archive.p5js.org/examples/simulate-particles.html)
+
 <img width="707" height="394" alt="image" src="https://github.com/user-attachments/assets/49dd2dcc-af7d-4c91-be42-e22a2f8153ce" />
 
 [Example link](https://p5js.org/examples/math-and-physics-smoke-particle-system/)
+
 <img width="695" height="399" alt="image" src="https://github.com/user-attachments/assets/744c60ba-9f54-4923-8918-cdb362016819" />
 
 [Example link](http://openprocessing.org/sketch/1978754/)
+
 <img width="687" height="556" alt="image" src="https://github.com/user-attachments/assets/033d3095-ab94-491c-8dc8-476cecee2a91" />
 
 [Example link](https://happycoding.io/tutorials/p5js/input)
